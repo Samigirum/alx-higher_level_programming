@@ -2,4 +2,4 @@
 import string
 
 for c in string.ascii_lowercase:
-print(char, end = ' ')
+print({}, end = ' '.format(c))
